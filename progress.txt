@@ -1,5 +1,5 @@
-poiss: 1/2l
-spo: 1/2l 1/2p
+poiss: 2/4l
+spo: 1/1l 1.5/3p
 pzhc: 2/3l
-piaps: 1/1l
-mmiva: 0/2l 0/1p
+piaps: 1/2l
+mmiva: 2/2l 0/1p
