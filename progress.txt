@@ -1,5 +1,6 @@
-piaps: 1/3l 0/5p
-pzhc: 5/6l
-spo: 3/4l 6/6p
+piaps: 3/3l 0/5p
+
+pzhc: 6/6l
+spo: 4/4l 6/6p
 mmiva: 2/2l 1/1p
 poiss: 4/4l
